@@ -147,7 +147,6 @@ Maximum number of times an instance in one entity can be associated with instanc
 
 .center[![AuthorWork - Many to Many](AuthorWorkManytoMany.jpg)]
 
-
 ---
 
 ## Example: Facebook
@@ -166,4 +165,4 @@ Maximum number of times an instance in one entity can be associated with instanc
 
 ## Example: Chinook
 
-.center.larger[Create an ERD for the Chinook Database including the Ordinality]
+.center[Create an ERD for the Chinook Database including the Ordinality]
