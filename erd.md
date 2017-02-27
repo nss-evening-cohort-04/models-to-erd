@@ -102,8 +102,6 @@ Maximum number of times an instance in one entity can be associated with instanc
 
 .center[![Crow's Foot Ordinality](crowsfoot-ordinality-red.png)]
 
---
-
 .center[.red[Ordinality] is added to the Cardinality notation.]
 
 ---
