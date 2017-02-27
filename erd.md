@@ -13,9 +13,9 @@ class: center, middle
 ---
 
 
-## Model Relationships (Review)                                                        
+## Model Relationships (Review)
 
-### Three types:                                                  
+### Three types:
 
 --
 
@@ -123,7 +123,7 @@ Maximum number of times an instance in one entity can be associated with instanc
 
 ---
 
-## One to Many                                                         
+## One to Many
 
 .larger[Example]
 
@@ -147,7 +147,8 @@ Maximum number of times an instance in one entity can be associated with instanc
 
 .center[![AuthorWork - Many to Many](AuthorWorkManytoMany.jpg)]
 
----                                                                             
+
+---
 
 ## Example: Facebook
 
