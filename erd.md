@@ -47,13 +47,13 @@ class: center, middle
 
 .larger[Cardinality]
 
-Maximum number of times an instance in one entity can be associated with instances in the related entity.
+**Maximum** number of times an instance in one entity can be associated with instances in the related entity.
 
 --
 
 .larger[Ordinality]
 
-Minimum number of times an instance in one entity can be associated with an instance in the related entity
+**Minimum** number of times an instance in one entity can be associated with an instance in the related entity
 
 
 ---
@@ -92,9 +92,19 @@ Maximum number of times an instance in one entity can be associated with instanc
 
 .center[![Crow's Foot Ordinality](crowsfoot-ordinality.png)]
 
+---
+
+## ERDs: Ordinality
+
+
+**Minimum** number of times an instance in one entity can be associated with an instance in the related entity
+
+
+.center[![Crow's Foot Ordinality](crowsfoot-ordinality-red.png)]
+
 --
 
-.center[Ordinality is added to the Cardinality notation.]
+.center[.red[Ordinality] is added to the Cardinality notation.]
 
 ---
 
@@ -139,4 +149,22 @@ Maximum number of times an instance in one entity can be associated with instanc
 
 .center[![AuthorWork - Many to Many](AuthorWorkManytoMany.jpg)]
 
+---                                                                             
 
+## Example: Facebook
+
+.center.larger[Discuss the likely relationships between the models: **User**, **StatusUpdate**, **Photo** and **Profile**]
+
+--
+
+- How can we represent "Friends"? How about the Ordinality of Friends?
+
+--
+
+- How can we represent Comments on **StatusUpdates**?
+
+---
+
+## Example: Chinook
+
+.center.larger[Create an ERD for the Chinook Database including the Ordinality]
